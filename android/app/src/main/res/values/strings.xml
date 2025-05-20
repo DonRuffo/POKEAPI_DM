@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PoliPoke</string>
+    <string name="title_activity_main">PoliPoke</string>
+    <string name="package_name">com.PoliPoke.app</string>
+    <string name="custom_url_scheme">com.PoliPoke.app</string>
+</resources>
